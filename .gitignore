@@ -39,3 +39,4 @@ build/
 .bsp
 .idea
 .metals
+.idea/workspace.xml
